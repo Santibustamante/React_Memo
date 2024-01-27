@@ -1,6 +1,7 @@
 .b-grid {
     display: flex;
     flex-wrap: wrap;
+    max-width: 520px;
 }
 
 .b-grid img {
